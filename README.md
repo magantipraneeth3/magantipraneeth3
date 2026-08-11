@@ -330,15 +330,7 @@ Completed practicum and Social Immersive Learning/Internship certification focus
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=magantipraneeth3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magantipraneeth3&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"/>
-
-</div>
 
 <br>
 
