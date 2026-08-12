@@ -29,6 +29,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Data+Science+Developer;Machine+Learning+%7C+Predictive+Analytics;Python+%7C+Scikit-Learn+%7C+Pandas;NLP+%7C+Data+Engineering+%7C+Cloud;Building+Data-Driven+Solutions;Learning+%7C+Building+%7C+Deploying" alt="Typing Animation"/>
 
 </div>
+<br>
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=magantipraneeth3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
