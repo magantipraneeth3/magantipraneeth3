@@ -31,30 +31,16 @@
 </div>
 <br>
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=magantipraneeth3&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=magantipraneeth3&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/magantipraneeth3">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=magantipraneeth3&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=magantipraneeth3&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
