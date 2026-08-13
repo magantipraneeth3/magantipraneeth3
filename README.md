@@ -34,14 +34,25 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magantipraneeth3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magantipraneeth3&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=magantipraneeth3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=magantipraneeth3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    width="41%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magantipraneeth3&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=magantipraneeth3&theme=tokyo-night&hide_border=true&area=true"
+    width="92%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
----
 
 ## 🧑‍💻 About Me
 
