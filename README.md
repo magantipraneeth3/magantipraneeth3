@@ -31,24 +31,11 @@
 </div>
 <br>
 
-## 📈 GitHub Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=magantipraneeth3&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-    width="70%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=magantipraneeth3" alt="GitHub Streak">
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=magantipraneeth3&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-    width="70%"
-  />
-</p>
-
 ## 🧑‍💻 About Me
 
 I'm **Maganti Praneeth Sri Satya Chowdary**, a **B.Tech CSE (Honors Through Research)** student at **KL University**, specializing in **Data Science Engineering with AI**, with a current **CGPA of 9.52/10**.
