@@ -32,16 +32,12 @@
 <br>
 
 <br>
-
-# 🔥 GitHub Contribution Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=magantipraneeth3&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=magantipraneeth3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magantipraneeth3&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
 <br>
 
 ---
