@@ -40,7 +40,7 @@
 
 I'm **Maganti Praneeth Sri Satya Chowdary**, a **B.Tech CSE (Honors Through Research)** student at **KL University**, specializing in **Data Science Engineering with AI**, with a current **CGPA of 9.52/10**.
 
-My primary interests lie in **Artificial Intelligence, Machine Learning, Data Science, Predictive Analytics, NLP, and Data Engineering**.
+My primary interests lie in **Artificial Intelligence, Machine Learning, Data Science, Predictive Analytics and Data Engineering**.
 
 I enjoy taking a problem from **raw data → preprocessing → feature engineering → model development → evaluation → visualization → deployment**.
 
