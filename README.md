@@ -34,7 +34,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magantipraneeth3&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=magantipraneeth3&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </p>
 ## 🧑‍💻 About Me
 
